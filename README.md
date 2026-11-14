@@ -27,7 +27,8 @@ Base simulada com 4.000 chamados de janeiro a junho de 2026, com categoria, prio
 3. **A média geral esconde a diferença entre categorias.** O tempo médio de 5,53 horas parece razoável, mas as categorias variam de 3 a quase 10 horas. Por isso olhar o indicador por categoria muda a decisão, e a média sozinha não basta.
 
 ## Dashboard
-![Dashboard](dashboard.png)
+<img width="1252" height="705" alt="image" src="https://github.com/user-attachments/assets/ad2d2997-d995-45f4-a5c9-aab0888e4900" />
+
 
 ## Como reproduzir
 1. Abra o arquivo `dashboard.pbix` no Power BI Desktop
